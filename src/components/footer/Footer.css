@@ -1,0 +1,30 @@
+.footer{
+    border-top:1px solid gray; 
+    padding-top: 20px;
+    text-align: left;
+    color:rgb(22, 105, 184);
+    
+}
+ul li{
+    list-style-type: none;
+    line-height: 2.1;
+    
+}
+.footer a{
+    text-decoration: none;
+    cursor:pointer;
+    color: black;
+    line-height:9px;
+    color:rgb(22, 105, 184);
+    font-size:16px;
+    
+}
+.footer a:hover{
+    background-color:lightgray;
+}
+.logo {
+    margin-top:40px;
+}
+.footer img{
+    margin-left: 30px;
+}

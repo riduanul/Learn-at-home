@@ -1,0 +1,20 @@
+
+.course{
+    width:236px;
+    margin: 20px;
+    text-align: left;
+    border: 1px solid lightgray;
+    float: left;
+    box-shadow: 5px 5px 15px lightgray;
+
+}
+
+.course img{
+    padding:0px;
+    width:236px;
+    height: 136px;
+}
+
+.course h5, p {
+    padding:5px;
+}
